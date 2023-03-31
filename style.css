@@ -1,0 +1,9 @@
+body {
+   background-image: linear-gradient(to left, rgb(247, 226, 197) , burlywood);
+   text-align: center;
+}
+
+canvas {
+   border: 5px solid rgb(203, 164, 111);
+   border-radius: 10px;
+}
